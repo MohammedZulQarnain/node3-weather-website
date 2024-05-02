@@ -39,7 +39,7 @@ app.get('/help', (req, res) => {
     res.render('help', {
         title: 'Help page',
         name: 'Mohammed Zul Karnain',
-        message: 'You can contact me at @mail.com'
+        message: 'You can contact me at mohdqarnain17@mail.com'
     })
 })
 
